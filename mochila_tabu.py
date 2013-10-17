@@ -4,8 +4,8 @@
 
 # Configuração da Mochila
 # Objeto	(j)		1	2	3	4	5
-# Peso		(wj)	4	5	7	9	6
-# Benefício (pj)	2	2	3	4	4
+# Peso		(wj)		4	5	7	9	6
+# Benefício	(pj)		2	2	3	4	4
 
 # Objetivo: Maximizar o benefício de cada elemento
 # Função objetivo: f(s) = SOMATORIO[j=1 até n](pj)(sj) - SOMATORIO[j=1 até n](pj)(sj) * max{0, SOMATORIO[j=1 até n](wj)(sj) - b}
