@@ -18,3 +18,7 @@ Função de Avaliação:
 onde:
 
 ![Alfa](https://raw.github.com/marcoscastro/mochila_inteiro-busca_tabu/master/img/alfa.jpg)
+
+Representação utilizada: lista binária.
+
+A vizinhança foi gerada utilizando a alteração de um dos bits.
