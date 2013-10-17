@@ -1,4 +1,4 @@
-inteligencia_artificial
+Problema da Mochila Inteira
 =======================
 
-Busca tabu resolvendo o problema da mochila inteira
+Busca tabu resolvendo o problema da mochila inteira.
