@@ -1,4 +1,4 @@
-Problema da Mochila Inteira
+Problema da Mochila Inteira - Busca Tabu
 =======================
 
 Busca tabu resolvendo o problema da mochila inteira.
